@@ -22,3 +22,10 @@ To make the project more interactive, I added visualizations. I plotted the conf
 Finally, I did something very practical — I saved the trained model using the joblib library. This created a .pkl file of my Logistic Regression model. The benefit of saving the model is that I don’t need to train it again every time. I can simply load the saved file and start making predictions on new data.
 
 Overall, this project taught me how to handle missing values, encode categorical data, train and evaluate models, and even save them for future use. It gave me confidence in Python, Pandas, Seaborn, Scikit‑learn, and Joblib. More importantly, it showed me how machine learning can be applied to real‑world problems in a structured way.
+
+
+##output 
+
+<img width="683" height="591" alt="Image" src="https://github.com/user-attachments/assets/a6be5788-104f-48cc-b0ef-84dea8df49de" />
+
+<img width="742" height="576" alt="Image" src="https://github.com/user-attachments/assets/6909ad64-337e-48fe-87de-644bd23f28e0" />
